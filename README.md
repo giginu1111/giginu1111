@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @giginu1111
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI.
